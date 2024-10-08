@@ -1,4 +1,4 @@
-# Projet de Machine Learning - Prédiction avec plusieurs algorithmes 
+# Projet de Machine Learning - Prédiction avec plusieurs algorithmes (apprentissage supervisé)
 
 Ce projet à pour objectif de prédire la concentration en C02 en utilisant une vingtaine d'autres variables.
 
